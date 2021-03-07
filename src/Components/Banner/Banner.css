@@ -1,0 +1,37 @@
+.banner-area {
+  background: #fdfdfd;
+  padding: 100px 0;
+}
+.banner-content {
+  text-align: center;
+}
+.banner-content h1 {
+  text-transform: capitalize;
+  color: #314e52;
+  font-size: 50px;
+}
+.banner-content p {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 500;
+  color: #314e52;
+  margin: 25px 0;
+  letter-spacing: 2px;
+}
+.banner-content .btn {
+  width: 125px;
+  padding: 15px 12px;
+  margin: 8px 12px;
+  background: #314e52;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 16px;
+  border: 1px solid #314e52;
+  border-radius: 3px;
+  text-align: center;
+  cursor: pointer;
+}
+.banner-content .btn2 {
+  background: none;
+  color: #314e52;
+}

@@ -1,0 +1,55 @@
+.single-user {
+  background: #fdfdfd;
+  box-sizing: border-box;
+  flex-basis: 47%;
+  box-shadow: 4px 4px 8px #f0f0f0, -4px -4px 8px #f0f0f0;
+  margin-bottom: 40px;
+  border-radius: 3px;
+  padding: 10px 20px;
+}
+.single-user .img-box {
+  width: 125px;
+  height: 125px;
+  background: #e7e6e1;
+  margin: 25px auto;
+  border-radius: 50%;
+}
+.single-user .img-box img {
+  width: 100%;
+  height: 100%;
+  padding: 4px;
+  border-radius: 50%;
+}
+.single-user .user-text {
+}
+.single-user .user-text h4 {
+  text-transform: capitalize;
+  font-size: 18px;
+  color: #314e52;
+}
+.single-user .user-text h4 span,
+.single-user .user-text p span {
+  margin-left: 10px;
+  color: #565656;
+}
+.single-user .user-text p {
+  text-transform: capitalize;
+  font-size: 16px;
+  color: #314e52;
+  font-weight: 500;
+}
+.single-user .hire-btn {
+  width: 150px;
+  padding: 12px 0;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 16px;
+  display: block;
+  margin: 20px auto;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: #314e52;
+  color: #fff;
+  border-radius: 5px;
+}

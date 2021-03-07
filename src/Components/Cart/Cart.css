@@ -1,0 +1,24 @@
+.employee-cart {
+  background: #f7f7e8;
+  margin: 15px 8px;
+  padding: 15px 8px;
+  border-radius: 3px;
+}
+.employee-cart h4 {
+  text-transform: capitalize;
+  text-align: center;
+  color: #30475e;
+  margin: 12px 0 30px 0;
+}
+.employee-cart .done-btn {
+  width: 100px;
+  display: block;
+  margin: 15px auto;
+  background: #383e56;
+  color: #fff;
+  padding: 8px 0;
+  border: none;
+  border-radius: 3px;
+  text-transform: capitalize;
+  cursor: pointer;
+}
